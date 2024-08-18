@@ -1,0 +1,11 @@
+-- ccache will be used for faster recompilation
+-- git rev-parse returned 'fatal: not a git repository (or any of the parent directories): .git'
+-- Could not use 'git describe' to determine PROJECT_VER.
+-- Building ESP-IDF components for target esp32s2
+Dependencies lock doesn't exist, solving dependencies.
+...Updating lock file at D:\01-porject\01-petwater\02-code\03-freertos-test\freerots_test\dependencies.lock
+Processing 2 dependencies:
+[1/2] espressif/ssd1306 (1.0.5~1)
+[2/2] idf (5.1.2)
+-- Configuring incomplete, errors occurred!
+See also "D:/01-porject/01-petwater/02-code/03-freertos-test/freerots_test/build/CMakeFiles/CMakeOutput.log".

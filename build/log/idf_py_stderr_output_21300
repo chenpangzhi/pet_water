@@ -1,0 +1,12 @@
+CMake Error at E:/espressif/esp-idf/tools/cmake/component.cmake:250 (message):
+  ERROR: Cannot process component requirements.  Multiple candidates to
+  satisfy project requirements:
+
+    requirement: "ssd1306" candidates: "espressif__ssd1306, ssd1306"
+
+Call Stack (most recent call first):
+  E:/espressif/esp-idf/tools/cmake/build.cmake:574 (__component_get_requirements)
+  E:/espressif/esp-idf/tools/cmake/project.cmake:547 (idf_build_process)
+  CMakeLists.txt:8 (project)
+
+
